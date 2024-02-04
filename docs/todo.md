@@ -2,3 +2,6 @@
 
 - [ ] custom hook, React Hook 복습
 - [ ] hydration
+- [ ] 공식 문서 읽어보기
+- [ ] SWR
+- [ ] React Query
