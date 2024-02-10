@@ -6,5 +6,7 @@
 - [ ] SWR
 - [ ] React Query
 - [ ] Promise.all()
-- [ ] React : Suspense
+- [v] React : Suspense
 - [ ] JS : fetch()
+- [ ] TypeScript 복습
+- [ ] React + TypeScript 복습
